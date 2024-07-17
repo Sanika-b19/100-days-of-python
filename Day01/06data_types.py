@@ -1,4 +1,3 @@
-
 # Different data types in Python
 
 # String
